@@ -3,7 +3,7 @@
 참고영상 링크:
 https://www.youtube.com/watch?v=toLDNN4FQv0&list=LL&index=15
 
-예제용 사용 사이트: https://mailtrap.io/
+예제용 사이트: https://mailtrap.io/
 
 
 
