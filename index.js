@@ -1,5 +1,8 @@
-const nodemailer = require('nodemailer');
+// nodemailer 라이브러리 사용
+// 구글에 npm install nodemailer 검색
+const nodemailer = require('nodemailer');	
 
+// mailtrap 사용
 const email = {
 	host: "smtp.mailtrap.io",
 	port: 2525,
